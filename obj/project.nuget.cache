@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "TsUeJ0qED6ghjYhFl5MZZQg70gFFOlxXfFaJ5YPDjZDdTFB6aDJypE5EASR8bTKpfJalt7PWi7HiWsQUNPxJmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LUCK GAMER\\Desktop\\Trabalho\\TestSportradarSdk\\LottGameApi\\LottGameApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\firebaseadmin\\2.3.0\\firebaseadmin.2.3.0.nupkg.sha512",
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\google.api.gax\\3.2.0\\google.api.gax.3.2.0.nupkg.sha512",
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\google.api.gax.rest\\3.2.0\\google.api.gax.rest.3.2.0.nupkg.sha512",
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\google.apis\\1.49.0\\google.apis.1.49.0.nupkg.sha512",
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\google.apis.auth\\1.49.0\\google.apis.auth.1.49.0.nupkg.sha512",
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\google.apis.core\\1.49.0\\google.apis.core.1.49.0.nupkg.sha512",
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
+    "C:\\Users\\LUCK GAMER\\.nuget\\packages\\system.collections.immutable\\1.7.1\\system.collections.immutable.1.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
